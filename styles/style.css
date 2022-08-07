@@ -11,6 +11,7 @@ body {
 
 .container {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -74,4 +75,9 @@ button:focus {
 
 #valor-anterior {
     font-size: 2em;
+}
+
+img{
+    width: 600px;
+    height: 200px;
 }
