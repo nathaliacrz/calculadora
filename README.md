@@ -20,7 +20,9 @@ Realizada com intuito de colocar em prática aprendizados em Javascript, além d
 
 ------------
 
-### `Link:` **calculadora-minecraft.netlify.app**
+### `Link:` 
+Veja como ficou o resultado final: [ABREEEE](calculadora-minecraft.netlify.app)
+
 
 
 
